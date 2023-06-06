@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.12)  5 JUN 2023 17:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.12)  5 JUN 2023 18:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -121,32 +121,55 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/uadytz5/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-
+Overfull \hbox (9.12682pt too wide) in paragraph at lines 17--17
+\OT1/cmr/bx/n/17.28 dazugeh^^?orige Beschrei-bung der Liefer-ge-genst^^?ande
  []
 
 
-Overfull \hbox (9.17937pt too wide) in paragraph at lines 40--41
-\OT1/cmr/m/n/12 In der In-dus-trie wird in den meis-ten F^^?allen auf git bzw. 
-GitHub und Jira zur^^?uckgegriffen. 
+Overfull \hbox (12.63672pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/12 - An-forderungser-he-bung: Eine de-tail-lierte Anal-yse der An-
+forderun-gen wird durchgef^^?uhrt,
  []
 
-[2] (main.aux) ) 
+[2]
+Overfull \hbox (5.89095pt too wide) in paragraph at lines 45--46
+\OT1/cmr/m/n/12 beit-ern h^^?ochste Qualit^^?at aufweist, wird ein um-fassendes
+ Konzept zur Qualit^^?atssicherung
+ []
+
+
+Overfull \hbox (38.83876pt too wide) in paragraph at lines 45--46
+\OT1/cmr/m/n/12 im-ple-men-tiert. Dieses Konzept um-fasst mehrere Schritte und 
+Ma^^Y-nah-men, um sicherzustellen,
+ []
+
+
+Overfull \hbox (17.80194pt too wide) in paragraph at lines 51--52
+\OT1/cmr/m/n/12 alle Funk-tio-nen ein-wand-frei funk-tion-ieren und den definie
+rten An-forderun-gen entsprechen.
+ []
+
+
+Overfull \hbox (13.55476pt too wide) in paragraph at lines 57--58
+\OT1/cmr/m/n/12 for-matierung, die Ver-wen-dung von Kom-mentaren f^^?ur eine be
+ssere Les-barkeit, regelm^^?a^^Yige
+ []
+
+[3] [4] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 1071 strings out of 475281
- 18932 string characters out of 2773120
- 369164 words of memory out of 3000000
+ 1070 strings out of 475281
+ 18912 string characters out of 2773120
+ 373164 words of memory out of 3000000
  22607 multiletter control sequences out of 15000+600000
- 473850 words of font info for 43 fonts, out of 8000000 for 9000
+ 473513 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,5n,62p,324b,121s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\uadytz5\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappe
-n/ec/dpi600\tcrm1200.pk><C:/Users/uadytz5/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmbx12.pfb><C:/Users/uadytz5/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on main.pdf (2 pages, 37527 bytes).
+ 55i,5n,62p,453b,113s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/uadytz5/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb><C:/Users/uadytz5/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on main.pdf (4 pages, 46959 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
+ 25 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
